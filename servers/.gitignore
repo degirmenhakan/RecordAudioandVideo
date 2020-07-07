@@ -1,7 +1,5 @@
-1542622777993.webm
-1542622779567.webm
-myaudiovideo.webm
-myaudio.webm
-mystreamvideo.webm
-myvideo.webm
+*.webm
 upload-video.php
+__pycache__/
+../record_audio_envs/
+../upload_files/
